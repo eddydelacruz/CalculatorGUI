@@ -37,9 +37,9 @@ private slots:
     void on_zero_clicked();
 
 
-    void on_period_clicked();
+    //void on_period_clicked();
 
-    void on_comma_clicked();
+    void on_decimal_clicked();
 
     void on_divBtn_clicked();
 
@@ -51,7 +51,9 @@ private slots:
 
     void on_delete_2_clicked();
 
-    void on_equalBtn_clicked(int num1, int num2, int num3, int num4, int num5, int num6, int num7, int num8);
+    //void on_equalBtn_clicked(int num1, int num2, int num3, int num4, int num5, int num6, int num7, int num8);
+
+    void on_clear_clicked();
 
 private:
     Ui::MainWindow *ui;

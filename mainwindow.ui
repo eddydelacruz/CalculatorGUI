@@ -209,20 +209,20 @@
      <string>3</string>
     </property>
    </widget>
-   <widget class="QPushButton" name="comma">
+   <widget class="QPushButton" name="clear">
     <property name="geometry">
      <rect>
-      <x>190</x>
-      <y>250</y>
+      <x>60</x>
+      <y>290</y>
       <width>91</width>
       <height>41</height>
      </rect>
     </property>
     <property name="text">
-     <string>,</string>
+     <string>clear</string>
     </property>
    </widget>
-   <widget class="QPushButton" name="period">
+   <widget class="QPushButton" name="decimal">
     <property name="geometry">
      <rect>
       <x>100</x>
